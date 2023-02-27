@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sourav9063/sourav9063/blob/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/Sourav9063/Sourav9063/1aab8a54d5ecc28d747e9f4f9f1e030e4e27ea54/snake.svg" alt="Snake animation" />
 
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
