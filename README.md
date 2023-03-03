@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav9063" alt="sourav9063" /></a> </p>
-
 - 🌱 I’m currently learning **NEXTJS, GOLANG**
 
 - 👨‍💻 All of my projects are available at [https://sourav9063.github.io/my_portfolio/](https://sourav9063.github.io/my_portfolio/)
@@ -43,4 +41,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav9063&label=Profile%20views&color=0e75b6&style=flat" alt="sourav9063" /> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav9063" alt="sourav9063" /></a> </p> -->
