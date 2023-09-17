@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **NEXTJS, GOLANG**
 
-- 👨‍💻 All of my projects are available at [https://sourav9063.github.io/my_portfolio/](https://sourav9063.github.io/my_portfolio/)
+- 👨‍💻 All of my projects are available at [https://sourav9063.github.io/](https://sourav9063.github.io/)
 
-- 📄 Know about my experiences [RESUME](https://sourav9063.github.io/my_portfolio/#/Cv)
+- 📄 Know about my experiences [RESUME](https://sourav9063.github.io/#/Cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
